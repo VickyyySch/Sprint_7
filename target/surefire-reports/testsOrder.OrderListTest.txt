@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: testsOrder.OrderListTest
+Test set: testsorder.OrderListTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.229 s - in testsOrder.OrderListTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.372 s - in testsorder.OrderListTest

@@ -1,4 +1,4 @@
-testsOrder/OrderListTest.class
-testsCourier/CreateTest.class
-testsCourier/TestsLogin.class
-testsOrder/TestParamOrder.class
+testscourier/CreateTest.class
+testscourier/TestsLogin.class
+testsorder/TestParamOrder.class
+testsorder/OrderListTest.class
