@@ -1,4 +1,4 @@
-package testsOrder;
+package testsorder;
 
 import order.*;
 import io.qameta.allure.Description;
@@ -42,14 +42,14 @@ public class TestParamOrder {
 
     @After
     @Step("Cancel test order")
-    public void CancelTestOrder() {
+    public void cancelTestOrder() {
         partOrder.cancelOrder(track);
     }
 
     @Test
     @DisplayName("Размещение заказа с самокатами разных цветов")
     @Description("Проверка на корректность размещения заказа с самокатами разных цветов")
-    public void OrderingWithScootersInDifferentColors() {
+    public void orderingWithScootersInDifferentColors() {
         ModelOrder modelOrder = new ModelOrder(colour);
         ValidatableResponse responseCreateOrder = partOrder.createNewOrder(modelOrder);
         track = responseCreateOrder.extract().path("track");

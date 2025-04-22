@@ -1,4 +1,4 @@
-package testsCourier;
+package testscourier;
 
 import courier.*;
 import io.qameta.allure.Description;

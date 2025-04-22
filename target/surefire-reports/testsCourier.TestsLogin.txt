@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: testsCourier.TestsLogin
+Test set: testscourier.TestsLogin
 -------------------------------------------------------------------------------
-Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.345 s - in testsCourier.TestsLogin
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.344 s - in testscourier.TestsLogin
